@@ -118,13 +118,13 @@ module.exports = nativeDescription: "Deutsch (Deutschland)", englishDescription:
     subscribe_as_diplomat: "Schreibe dich als Diplomat ein."
 
   play:
-#    anon_signup_title_1: "CodeCombat has a"
-#    anon_signup_title_2: "Classroom Version!"
-#    anon_signup_enter_code: "Enter Class Code:"
-#    anon_signup_ask_teacher: "Don't have one? Ask your teacher!"
-#    anon_signup_create_class: "Want to create a class?"
+    anon_signup_title_1: "CodeCombat hat eine"
+    anon_signup_title_2: "Klassenraum Edition!"
+    anon_signup_enter_code: "Gib den Klassen Code ein"
+    anon_signup_ask_teacher: "Du hast keinen? Frag deinen Lehrer!"
+    anon_signup_create_class: "Willst du eine Klasse erstellen?"
 #    anon_signup_setup_class: "Set up a class, add your students, and monitor progress!"
-#    anon_signup_create_teacher: "Create free teacher account"
+    anon_signup_create_teacher: "Erstelle kostenlosen Lehrer Account"
     play_as: "Spiele als " # Ladder page
     get_course_for_class: "Wende Spieleentwicklung und mehr in deiner Klasse an!"
     request_licenses: "Kontaktieren Sie unseren Schulspezialisten für Details."
@@ -1282,7 +1282,7 @@ module.exports = nativeDescription: "Deutsch (Deutschland)", englishDescription:
 
   courses:
     create_new_class: "Erstellen Sie eine neue Klasse"
-#    hoc_blurb1: "Try the"
+    hoc_blurb1: "Probiere das"
 #    hoc_blurb2: "Code, Play, Share"
 #    hoc_blurb3: "activity! Construct four different minigames to learn the basics of game development, then make your own!"
     solutions_require_licenses: "Level Lösungen sind für Lehrkräfte verfügbar, die eine Lizenz haben."
@@ -2304,7 +2304,7 @@ module.exports = nativeDescription: "Deutsch (Deutschland)", englishDescription:
     object_literals: "Objekt Literale"
     parameters: "Parameter"
 #    programs: "Programs"
-#    properties: "Properties"
+    properties: "Eigenschaften"
     property_access: "Zugriff auf Eigenschaften"
     property_assignment: "Zuweisen von Eigenschaften"
     property_coordinate: "Koordinateneigenschaft"
